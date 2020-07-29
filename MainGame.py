@@ -8,3 +8,7 @@ def main():
     win = GraphWin("Check The Board", width, height)
     win.setCoords(0, 0, 100, 100)
     mainMenu(win)
+
+
+if __name__ == "__main__":
+    main()
