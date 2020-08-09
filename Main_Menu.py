@@ -1,1 +1,1 @@
-from graphics
+from graphics import
