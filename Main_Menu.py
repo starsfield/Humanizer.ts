@@ -1,1 +1,1 @@
-from graphics import GraphWin
+from graphics import GraphWin, Re
