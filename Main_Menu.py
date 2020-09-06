@@ -1,1 +1,1 @@
-from graphics import GraphWin, Rectangle
+from graphics import GraphWin, Rectangle, Te
