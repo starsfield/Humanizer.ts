@@ -1,1 +1,1 @@
-from graphics import GraphWin, Rectangle, Text, Point, col
+from graphics import GraphWin, Rectangle, Text, Point, color_rg
