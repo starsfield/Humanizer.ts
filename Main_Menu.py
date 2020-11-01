@@ -4,4 +4,4 @@ def mainMenu (window):
 
     #Initialize variables
     win = window
-    menuObjec
+    menuObjects =
