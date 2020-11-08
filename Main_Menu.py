@@ -6,4 +6,5 @@ def mainMenu (window):
     win = window
     menuObjects = []
 
-    #Backgroun
+    #Background
+   
