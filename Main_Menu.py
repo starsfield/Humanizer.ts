@@ -7,4 +7,4 @@ def mainMenu (window):
     menuObjects = []
 
     #Background
-    background = Image(Point(50
+    background = Image(Point(50,50),
