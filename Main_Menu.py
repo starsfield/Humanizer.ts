@@ -8,4 +8,6 @@ def mainMenu (window):
 
     #Background
     background = Image(Point(50,50), "MMBackground.gif")
-    background.draw(win
+    background.draw(win)
+
+  
