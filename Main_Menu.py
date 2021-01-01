@@ -10,4 +10,5 @@ def mainMenu (window):
     background = Image(Point(50,50), "MMBackground.gif")
     background.draw(win)
 
-    #Title 
+    #Title Text
+  
