@@ -11,4 +11,4 @@ def mainMenu (window):
     background.draw(win)
 
     #Title Text
-    titleBox = Rectangle(Point(1
+    titleBox = Rectangle(Point(10,95),
