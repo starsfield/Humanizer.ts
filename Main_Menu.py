@@ -12,4 +12,4 @@ def mainMenu (window):
 
     #Title Text
     titleBox = Rectangle(Point(10,95), Point(90, 75))
-    titleBox.setFill(col
+    titleBox.setFill(color_
