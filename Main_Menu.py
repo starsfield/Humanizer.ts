@@ -14,4 +14,5 @@ def mainMenu (window):
     titleBox = Rectangle(Point(10,95), Point(90, 75))
     titleBox.setFill(color_rgb(132,132,130))
     titleBox.setOutline("white")
-    menuObjects.append(titleBox
+    menuObjects.append(titleBox)
+   
