@@ -15,4 +15,4 @@ def mainMenu (window):
     titleBox.setFill(color_rgb(132,132,130))
     titleBox.setOutline("white")
     menuObjects.append(titleBox)
-    ti
+    titleTex
