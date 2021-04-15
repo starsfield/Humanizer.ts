@@ -16,4 +16,4 @@ def mainMenu (window):
     titleBox.setOutline("white")
     menuObjects.append(titleBox)
     titleText = Text(Point(50, 85), "CHECK THE BOARD")
-    titleText.setSi
+    titleText.setSize
