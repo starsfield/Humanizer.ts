@@ -17,4 +17,4 @@ def mainMenu (window):
     menuObjects.append(titleBox)
     titleText = Text(Point(50, 85), "CHECK THE BOARD")
     titleText.setSize(35)
-    menuObjects.append(tit
+    menuObjects.append(titleText
