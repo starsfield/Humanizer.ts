@@ -19,4 +19,4 @@ def mainMenu (window):
     titleText.setSize(35)
     menuObjects.append(titleText)
 
-    #S
+    #Start Button
