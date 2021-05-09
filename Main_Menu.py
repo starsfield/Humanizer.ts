@@ -20,4 +20,4 @@ def mainMenu (window):
     menuObjects.append(titleText)
 
     #Start Button
-    startBox = R
+    startBox = Rect
