@@ -20,4 +20,4 @@ def mainMenu (window):
     menuObjects.append(titleText)
 
     #Start Button
-    startBox = Rectangle(Point(30, 65
+    startBox = Rectangle(Point(30, 65),
