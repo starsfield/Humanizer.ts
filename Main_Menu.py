@@ -21,4 +21,4 @@ def mainMenu (window):
 
     #Start Button
     startBox = Rectangle(Point(30, 65), Point(70, 55))
-    startBox.setFill(color_rgb(163,1
+    startBox.setFill(color_rgb(163,163,161
