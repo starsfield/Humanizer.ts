@@ -23,4 +23,4 @@ def mainMenu (window):
     startBox = Rectangle(Point(30, 65), Point(70, 55))
     startBox.setFill(color_rgb(163,163,161))
     startBox.setOutline("white")
-    menuObjects.append(startBox
+    menuObjects.append(startBox)
