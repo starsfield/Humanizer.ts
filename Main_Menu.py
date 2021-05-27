@@ -24,4 +24,4 @@ def mainMenu (window):
     startBox.setFill(color_rgb(163,163,161))
     startBox.setOutline("white")
     menuObjects.append(startBox)
-  
+    s
