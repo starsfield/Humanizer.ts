@@ -24,4 +24,5 @@ def mainMenu (window):
     startBox.setFill(color_rgb(163,163,161))
     startBox.setOutline("white")
     menuObjects.append(startBox)
-    startText = Text(Point(50, 60), "Level Select
+    startText = Text(Point(50, 60), "Level Select")
+    
