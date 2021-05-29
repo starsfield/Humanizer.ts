@@ -25,4 +25,4 @@ def mainMenu (window):
     startBox.setOutline("white")
     menuObjects.append(startBox)
     startText = Text(Point(50, 60), "Level Select")
-    startText.se
+    startText.setSize
