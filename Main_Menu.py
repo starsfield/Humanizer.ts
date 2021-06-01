@@ -27,3 +27,4 @@ def mainMenu (window):
     startText = Text(Point(50, 60), "Level Select")
     startText.setSize(20)
     menuObjects.append(startText)
+
