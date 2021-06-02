@@ -28,4 +28,4 @@ def mainMenu (window):
     startText.setSize(20)
     menuObjects.append(startText)
 
-    #
+    #Opt
