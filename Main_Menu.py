@@ -29,4 +29,4 @@ def mainMenu (window):
     menuObjects.append(startText)
 
     #Options Button
-    optionsBox = Rectangle(Point(30, 50), Poin
+    optionsBox = Rectangle(Point(30, 50), Point(
