@@ -30,4 +30,4 @@ def mainMenu (window):
 
     #Options Button
     optionsBox = Rectangle(Point(30, 50), Point(70, 40))
-    o
+    opti
