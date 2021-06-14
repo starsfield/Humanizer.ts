@@ -32,4 +32,4 @@ def mainMenu (window):
     optionsBox = Rectangle(Point(30, 50), Point(70, 40))
     optionsBox.setFill(color_rgb(163,163,161))
     optionsBox.setOutline("white")
-    menuObjects.append(option
+    menuObjects.append(optionsBox
