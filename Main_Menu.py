@@ -33,4 +33,4 @@ def mainMenu (window):
     optionsBox.setFill(color_rgb(163,163,161))
     optionsBox.setOutline("white")
     menuObjects.append(optionsBox)
-    optionsText = Text(Point
+    optionsText = Text(Point(5
