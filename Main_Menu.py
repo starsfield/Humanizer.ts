@@ -35,4 +35,6 @@ def mainMenu (window):
     menuObjects.append(optionsBox)
     optionsText = Text(Point(50, 45), "Options")
     optionsText.setSize(20)
-    menuObjects.append(optionsText
+    menuObjects.append(optionsText)
+
+ 
