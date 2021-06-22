@@ -37,4 +37,4 @@ def mainMenu (window):
     optionsText.setSize(20)
     menuObjects.append(optionsText)
 
-    #He
+    #Hel
