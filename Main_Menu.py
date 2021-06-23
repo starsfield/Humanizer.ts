@@ -38,4 +38,4 @@ def mainMenu (window):
     menuObjects.append(optionsText)
 
     #Help Button
-    helpBox = Rectangle(Point(30
+    helpBox = Rectangle(Point(30, 35
