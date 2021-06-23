@@ -38,4 +38,4 @@ def mainMenu (window):
     menuObjects.append(optionsText)
 
     #Help Button
-    helpBox = 
+    helpBox = Rec
