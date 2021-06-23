@@ -38,4 +38,4 @@ def mainMenu (window):
     menuObjects.append(optionsText)
 
     #Help Button
-    helpBox = Rectangl
+    helpBox = Rectangle(Poi
