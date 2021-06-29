@@ -39,4 +39,4 @@ def mainMenu (window):
 
     #Help Button
     helpBox = Rectangle(Point(30, 35), Point(70, 25))
-    helpBox.setFill(color_r
+    helpBox.setFill(color_rgb(163,16
