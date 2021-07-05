@@ -42,4 +42,4 @@ def mainMenu (window):
     helpBox.setFill(color_rgb(163,163,161))
     helpBox.setOutline("white")
     menuObjects.append(helpBox)
-   
+    hel
