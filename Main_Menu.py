@@ -42,4 +42,5 @@ def mainMenu (window):
     helpBox.setFill(color_rgb(163,163,161))
     helpBox.setOutline("white")
     menuObjects.append(helpBox)
-    helpText = Text(Point(50, 30),
+    helpText = Text(Point(50, 30), "Help")
+ 
