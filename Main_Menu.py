@@ -46,4 +46,4 @@ def mainMenu (window):
     helpText.setSize(20)
     menuObjects.append(helpText)
 
-    #Ex
+    #Exit Butt
