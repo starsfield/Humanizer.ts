@@ -45,3 +45,5 @@ def mainMenu (window):
     helpText = Text(Point(50, 30), "Help")
     helpText.setSize(20)
     menuObjects.append(helpText)
+
+ 
