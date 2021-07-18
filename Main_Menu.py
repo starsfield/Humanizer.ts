@@ -47,4 +47,4 @@ def mainMenu (window):
     menuObjects.append(helpText)
 
     #Exit Button
-    exitBox = Rectangle(Point(30, 20
+    exitBox = Rectangle(Point(30, 20),
