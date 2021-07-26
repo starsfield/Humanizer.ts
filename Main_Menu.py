@@ -48,4 +48,5 @@ def mainMenu (window):
 
     #Exit Button
     exitBox = Rectangle(Point(30, 20), Point(70, 10))
-    exitBox.setFill(color_rgb(163,163,1
+    exitBox.setFill(color_rgb(163,163,161))
+   
