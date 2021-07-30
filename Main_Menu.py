@@ -50,4 +50,4 @@ def mainMenu (window):
     exitBox = Rectangle(Point(30, 20), Point(70, 10))
     exitBox.setFill(color_rgb(163,163,161))
     exitBox.setOutline("white")
-    menuObjects.append(exitB
+    menuObjects.append(exitBox)
