@@ -51,4 +51,4 @@ def mainMenu (window):
     exitBox.setFill(color_rgb(163,163,161))
     exitBox.setOutline("white")
     menuObjects.append(exitBox)
-   
+    e
