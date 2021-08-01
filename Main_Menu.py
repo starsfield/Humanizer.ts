@@ -52,4 +52,4 @@ def mainMenu (window):
     exitBox.setOutline("white")
     menuObjects.append(exitBox)
     exitText = Text(Point(50, 15), "Exit")
-    
+    exit
