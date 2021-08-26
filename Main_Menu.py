@@ -53,4 +53,4 @@ def mainMenu (window):
     menuObjects.append(exitBox)
     exitText = Text(Point(50, 15), "Exit")
     exitText.setSize(20)
-    menuObjects.append
+    menuObjects.append(exi
