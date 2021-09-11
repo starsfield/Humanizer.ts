@@ -55,4 +55,4 @@ def mainMenu (window):
     exitText.setSize(20)
     menuObjects.append(exitText)
 
-    #Draw in the Main Menu
+    #Draw in the Main Menu obj
