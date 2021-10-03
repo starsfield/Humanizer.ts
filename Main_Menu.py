@@ -56,4 +56,4 @@ def mainMenu (window):
     menuObjects.append(exitText)
 
     #Draw in the Main Menu objects
-    for 
+    for i in ra
