@@ -56,4 +56,4 @@ def mainMenu (window):
     menuObjects.append(exitText)
 
     #Draw in the Main Menu objects
-    for i in range(len(menuO
+    for i in range(len(menuObjects
