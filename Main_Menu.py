@@ -57,4 +57,4 @@ def mainMenu (window):
 
     #Draw in the Main Menu objects
     for i in range(len(menuObjects)):
-        menuObject
+        menuObjects[i]
