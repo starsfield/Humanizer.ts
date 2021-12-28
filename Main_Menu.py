@@ -60,4 +60,4 @@ def mainMenu (window):
         menuObjects[i].draw(win)
 
     #Main Menu Functionality
-    clickText = Te
+    clickText = Text(
