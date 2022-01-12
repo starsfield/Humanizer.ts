@@ -60,4 +60,4 @@ def mainMenu (window):
         menuObjects[i].draw(win)
 
     #Main Menu Functionality
-    clickText = Text(Point(50, 5), "
+    clickText = Text(Point(50, 5), " ")
