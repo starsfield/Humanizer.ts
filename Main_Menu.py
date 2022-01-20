@@ -61,4 +61,4 @@ def mainMenu (window):
 
     #Main Menu Functionality
     clickText = Text(Point(50, 5), " ")
-    wh
+    while T
