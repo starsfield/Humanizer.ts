@@ -63,4 +63,4 @@ def mainMenu (window):
     clickText = Text(Point(50, 5), " ")
     while True:
         click = win.getMouse()
-        c
+        clickTex
