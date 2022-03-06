@@ -64,3 +64,4 @@ def mainMenu (window):
     while True:
         click = win.getMouse()
         clickText.undraw()
+    
