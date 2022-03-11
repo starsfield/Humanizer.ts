@@ -64,4 +64,4 @@ def mainMenu (window):
     while True:
         click = win.getMouse()
         clickText.undraw()
-        clickText = Text(Poin
+        clickText = Text(Point(50, 5)
