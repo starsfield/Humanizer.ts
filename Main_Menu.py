@@ -64,4 +64,4 @@ def mainMenu (window):
     while True:
         click = win.getMouse()
         clickText.undraw()
-        clickText = Text(Point(50, 5), "X: " + str(format(click.getX(), ".2f")) + " " + "Y: " + str(for
+        clickText = Text(Point(50, 5), "X: " + str(format(click.getX(), ".2f")) + " " + "Y: " + str(format(click.
