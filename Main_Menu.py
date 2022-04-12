@@ -66,4 +66,4 @@ def mainMenu (window):
         clickText.undraw()
         clickText = Text(Point(50, 5), "X: " + str(format(click.getX(), ".2f")) + " " + "Y: " + str(format(click.getY(), ".2f")))
         clickText.setSize(20)
-        clickText.setTextCo
+        clickText.setTextColor("r
