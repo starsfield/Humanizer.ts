@@ -68,4 +68,4 @@ def mainMenu (window):
         clickText.setSize(20)
         clickText.setTextColor("red")
         clickText.draw(win)
-        if click.getX() > 30 and click.getX() < 70 and click.getY() > 25 and click.get
+        if click.getX() > 30 and click.getX() < 70 and click.getY() > 25 and click.getY() 
