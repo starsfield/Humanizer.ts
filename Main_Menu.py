@@ -70,4 +70,4 @@ def mainMenu (window):
         clickText.draw(win)
         if click.getX() > 30 and click.getX() < 70 and click.getY() > 25 and click.getY() < 35:
             helpScreen(win, menuObjects)
-           
+            ma
