@@ -72,4 +72,4 @@ def mainMenu (window):
             helpScreen(win, menuObjects)
             mainMenu(win)
             break
-        if click.getX() > 30 and click.getX() < 70 
+        if click.getX() > 30 and click.getX() < 70 and 
