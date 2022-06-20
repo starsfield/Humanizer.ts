@@ -76,4 +76,4 @@ def mainMenu (window):
             break
 
 
-def helpScreen(win, menu
+def helpScreen(win, menuO
