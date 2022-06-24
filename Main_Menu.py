@@ -77,4 +77,4 @@ def mainMenu (window):
 
 
 def helpScreen(win, menuObjects):
-    #Initialize objects ar
+    #Initialize objects arra
