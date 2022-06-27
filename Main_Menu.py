@@ -78,4 +78,5 @@ def mainMenu (window):
 
 def helpScreen(win, menuObjects):
     #Initialize objects array
-    helpObjects = [
+    helpObjects = []
+
