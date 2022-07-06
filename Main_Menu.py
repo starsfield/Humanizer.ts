@@ -80,4 +80,5 @@ def helpScreen(win, menuObjects):
     #Initialize objects array
     helpObjects = []
 
-    #Undraw the Main Menu Object
+    #Undraw the Main Menu Objects
+   
