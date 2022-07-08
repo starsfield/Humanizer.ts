@@ -81,4 +81,4 @@ def helpScreen(win, menuObjects):
     helpObjects = []
 
     #Undraw the Main Menu Objects
-    for i 
+    for i in range
