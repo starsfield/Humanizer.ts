@@ -85,4 +85,4 @@ def helpScreen(win, menuObjects):
         menuObjects[i].undraw()
 
     #Create Help Menu
-    exitHelpBo
+    exitHelpBox = R
