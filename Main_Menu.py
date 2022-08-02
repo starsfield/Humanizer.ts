@@ -85,4 +85,5 @@ def helpScreen(win, menuObjects):
         menuObjects[i].undraw()
 
     #Create Help Menu
-    exitHelpBox = Rectangle(Point(30, 7), Point(70,
+    exitHelpBox = Rectangle(Point(30, 7), Point(70, 3))
+ 
