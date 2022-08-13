@@ -86,4 +86,4 @@ def helpScreen(win, menuObjects):
 
     #Create Help Menu
     exitHelpBox = Rectangle(Point(30, 7), Point(70, 3))
-    exitHelpBox.setFill(color_rgb(
+    exitHelpBox.setFill(color_rgb(163
