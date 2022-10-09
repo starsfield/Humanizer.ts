@@ -89,4 +89,4 @@ def helpScreen(win, menuObjects):
     exitHelpBox.setFill(color_rgb(163,163,161))
     exitHelpBox.setOutline("white")
     helpObjects.append(exitHelpBox)
-    exitHelpText = Text(Point(50, 5), "Click anyw
+    exitHelpText = Text(Point(50, 5), "Click anywh
