@@ -90,4 +90,5 @@ def helpScreen(win, menuObjects):
     exitHelpBox.setOutline("white")
     helpObjects.append(exitHelpBox)
     exitHelpText = Text(Point(50, 5), "Click anywhere to go back to the Main Menu")
-    exitHelpText.setSize(10
+    exitHelpText.setSize(10)
+    he
