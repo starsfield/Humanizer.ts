@@ -93,4 +93,5 @@ def helpScreen(win, menuObjects):
     exitHelpText.setSize(10)
     helpObjects.append(exitHelpText)
 
-    #Draw in the Help Menu object
+    #Draw in the Help Menu objects
+ 
