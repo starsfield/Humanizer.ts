@@ -95,4 +95,4 @@ def helpScreen(win, menuObjects):
 
     #Draw in the Help Menu objects
     for i in range(len(helpObjects)):
-        helpObjects[i].draw(
+        helpObjects[i].draw(win)
