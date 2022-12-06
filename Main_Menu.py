@@ -97,4 +97,4 @@ def helpScreen(win, menuObjects):
     for i in range(len(helpObjects)):
         helpObjects[i].draw(win)
 
-    #Click to
+    #Click to ex
