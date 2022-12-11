@@ -98,4 +98,4 @@ def helpScreen(win, menuObjects):
         helpObjects[i].draw(win)
 
     #Click to exit the Help Menu
-   
+    win
