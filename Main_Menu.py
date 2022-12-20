@@ -101,4 +101,4 @@ def helpScreen(win, menuObjects):
     win.getMouse()
 
 
-def 
+def main()
