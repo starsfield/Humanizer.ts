@@ -102,4 +102,4 @@ def helpScreen(win, menuObjects):
 
 
 def main():
-    w =
+    w = 1
