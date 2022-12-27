@@ -103,3 +103,4 @@ def helpScreen(win, menuObjects):
 
 def main():
     w = 1000
+    h
