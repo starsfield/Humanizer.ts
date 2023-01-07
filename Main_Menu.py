@@ -104,4 +104,4 @@ def helpScreen(win, menuObjects):
 def main():
     w = 1000
     h = 650
-    win = GraphWin("Check Th
+    win = GraphWin("Check The Bo
