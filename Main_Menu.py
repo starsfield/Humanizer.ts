@@ -105,4 +105,4 @@ def main():
     w = 1000
     h = 650
     win = GraphWin("Check The Board", w , h)
-    win.setCoords(0.0
+    win.setCoords(0.0 ,0
