@@ -107,3 +107,6 @@ def main():
     win = GraphWin("Check The Board", w , h)
     win.setCoords(0.0 ,0.0 ,100.0, 100.0)
     mainMenu(win)
+
+
+if 
