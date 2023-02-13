@@ -109,4 +109,4 @@ def main():
     mainMenu(win)
 
 
-if __na
+if __nam
