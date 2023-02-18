@@ -109,4 +109,5 @@ def main():
     mainMenu(win)
 
 
-if __name__ == "__main_
+if __name__ == "__main__":
+  
