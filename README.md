@@ -11,3 +11,4 @@ Log 2 (11-16-2021) (Added a window that stays open until the user clicks):
 Reused some code from an older project to get a widow to appear when the file is run that stays open until a click is detected. The only thing the program can do now is open and close a window at the whim of the user.
 
 Log 3 (11-21-2021) (Created the basic template for the Main Menu):
+Created a brand new file to hold everything for the main menu. Currently have the basic outline for the main menu done with makeshift buttons with no functionality yet and a background image.
